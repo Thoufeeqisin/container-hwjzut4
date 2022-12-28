@@ -1,6 +1,6 @@
 services:
   app:
-    image: container-hwjzut4
+    image:
     build:
       context: ./src
     ports:
