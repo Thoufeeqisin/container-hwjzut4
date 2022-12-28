@@ -1,0 +1,1 @@
+FROM devbeta/litespeed
